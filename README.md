@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Overview
 
 The repository consists of the following main components:
@@ -43,3 +44,6 @@ pandas
 matplotlib
 seaborn
 scipy
+=======
+
+>>>>>>> f79d17be6bb4991653e65b1a072bbc9845b27e5c
