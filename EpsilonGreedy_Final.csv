@@ -1,0 +1,5 @@
+Bandit,Reward,Algorithm
+Bandit with a Win Rate of 1,1.8391287647408192,EpsilonGreedy
+Bandit with a Win Rate of 2,1.9135433140819027,EpsilonGreedy
+Bandit with a Win Rate of 3,2.2860548357037755,EpsilonGreedy
+Bandit with a Win Rate of 4,3.9984112748520113,EpsilonGreedy
